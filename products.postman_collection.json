@@ -7,7 +7,7 @@
   },
   "item": [
     {
-      "name": "createee board",
+      "name": "create board",
       "event": [
         {
           "listen": "test",
