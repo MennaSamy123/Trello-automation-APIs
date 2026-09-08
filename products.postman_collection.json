@@ -2,12 +2,11 @@
   "info": {
     "_postman_id": "07ae77f8-b978-4533-8aa2-f3b0baeaa762",
     "name": "products",
-    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-    "_exporter_id": "23657785"
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
   "item": [
     {
-      "name": "createee???? board",
+      "name": "create board",
       "event": [
         {
           "listen": "test",
@@ -62,6 +61,7 @@
           }
         }
       ],
+      "id": "1ddbb890-c2d2-4fe6-b65a-44bf8f23dad7",
       "request": {
         "method": "POST",
         "header": [],
@@ -138,6 +138,7 @@
           }
         }
       ],
+      "id": "ba5929fc-3e3c-43bd-acdb-7caed656a867",
       "request": {
         "method": "POST",
         "header": [],
@@ -207,6 +208,7 @@
           }
         }
       ],
+      "id": "6f7333da-1265-4e61-aea6-79e89fe95677",
       "request": {
         "method": "POST",
         "header": [
@@ -251,6 +253,7 @@
     },
     {
       "name": "archive list",
+      "id": "1204e140-f5fe-4ffb-a89d-a464fe5707c3",
       "request": {
         "method": "PUT",
         "header": [],
@@ -291,30 +294,6 @@
         }
       },
       "response": []
-    }
-  ],
-  "event": [
-    {
-      "listen": "prerequest",
-      "script": {
-        "type": "text/javascript",
-        "packages": {},
-        "requests": {},
-        "exec": [
-          ""
-        ]
-      }
-    },
-    {
-      "listen": "test",
-      "script": {
-        "type": "text/javascript",
-        "packages": {},
-        "requests": {},
-        "exec": [
-          ""
-        ]
-      }
     }
   ]
 }

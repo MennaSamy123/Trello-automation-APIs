@@ -1,0 +1,23 @@
+{
+  "id": "7426b1c1-0efb-435d-a3e3-78da98b84e69",
+  "name": "Globals",
+  "values": [
+    {
+      "key": "listid",
+      "value": "",
+      "enabled": true,
+      "type": "any",
+      "description": ""
+    },
+    {
+      "key": "requestalreadyrun",
+      "value": "",
+      "enabled": true,
+      "type": "any",
+      "description": ""
+    }
+  ],
+  "_postman_variable_scope": "globals",
+  "_postman_exported_at": "2026-09-08T08:52:29.939Z",
+  "_postman_exported_using": "Postman/11.0.0"
+}

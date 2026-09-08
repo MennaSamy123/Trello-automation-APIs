@@ -1,0 +1,17 @@
+{
+  "workspace": {
+    "id": "93a90013-14a5-4667-91a1-a3516bbad6e3"
+  },
+  "entities": {
+    "environments": [
+      "..\\trello.postman_environment.json"
+    ],
+    "flows": [],
+    "globals": [],
+    "mocks": [],
+    "specs": [],
+    "collections": [
+      "..\\products.postman_collection.json"
+    ]
+  }
+}
